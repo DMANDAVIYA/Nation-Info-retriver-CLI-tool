@@ -1,4 +1,4 @@
-Nation Infromation Retriever Command Line Interface Tool
+## Nation Infromation Retriever Command Line Interface Tool
 A SvelteKit-based internal tool that uses Google Gemini 2.0 Flash AI to answer questions about any country in the world.
 
 ---
